@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.njsp520.cn/sitemap.xml
